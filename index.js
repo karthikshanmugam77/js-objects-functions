@@ -101,3 +101,5 @@ year = obj.getYear();         //storing changed name in varaible
 console.log("Year : ",year);  //console print
 
 //---------------------------------------------------------------
+//               OBJECT CREATION WITH function
+
