@@ -4,7 +4,8 @@ import './style.css';
 // Write Javascript code!
 const appDiv = document.getElementById('app');
 appDiv.innerHTML = `<h1>JS Starter</h1>`;
-
+//------------ OBJECT - GET - SET - FUNCTION --------------------
+//             OBJECT CREATION WITH BRASES
 const obj = {       //object declaration
   id : 1,
   name : "karthi",
@@ -99,5 +100,4 @@ obj.setYear("2022");          // changing name
 year = obj.getYear();         //storing changed name in varaible
 console.log("Year : ",year);  //console print
 
-
-
+//---------------------------------------------------------------
